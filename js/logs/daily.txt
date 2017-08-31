@@ -28,6 +28,7 @@ Google Groups-Threads-48-00:57
 Instagram-Followers-70-00:57
 Instagram-Likes-1118-00:57
 Instagram-Reproductions-511-00:57
+Instagram-Comments-70-00:57
 Github-Followers-33-01:27
 Github-Watchers-85-01:27
 Github-Stars-241-01:27
@@ -58,6 +59,7 @@ Google Groups-Threads-48-01:27
 Instagram-Followers-70-01:27
 Instagram-Likes-1126-01:27
 Instagram-Reproductions-518-01:27
+Instagram-Comments-72-01:27
 Github-Followers-33-01:57
 Github-Watchers-85-01:57
 Github-Stars-241-01:57
@@ -88,6 +90,7 @@ Google Groups-Threads-48-01:57
 Instagram-Followers-70-01:57
 Instagram-Likes-1128-01:57
 Instagram-Reproductions-522-01:57
+Instagram-Comments-73-01:57
 Github-Followers-33-02:12
 Github-Watchers-85-02:12
 Github-Stars-241-02:12
@@ -118,6 +121,7 @@ Google Groups-Threads-48-02:12
 Instagram-Followers-70-02:12
 Instagram-Likes-1131-02:12
 Instagram-Reproductions-524-02:12
+Instagram-Comments-73-02:12
 Github-Followers-33-02:27
 Github-Watchers-85-02:27
 Github-Stars-241-02:27
@@ -148,6 +152,7 @@ Google Groups-Threads-48-02:27
 Instagram-Followers-71-02:27
 Instagram-Likes-1134-02:27
 Instagram-Reproductions-528-02:27
+Instagram-Comments-73-02:27
 Github-Followers-33-02:57
 Github-Watchers-85-02:57
 Github-Stars-241-02:57
@@ -178,6 +183,7 @@ Google Groups-Threads-48-02:57
 Instagram-Followers-71-02:57
 Instagram-Likes-1134-02:57
 Instagram-Reproductions-529-02:57
+Instagram-Comments-73-02:57
 Github-Followers-33-03:12
 Github-Watchers-85-03:12
 Github-Stars-241-03:12
@@ -208,6 +214,7 @@ Google Groups-Threads-48-03:12
 Instagram-Followers-71-03:12
 Instagram-Likes-1134-03:12
 Instagram-Reproductions-529-03:12
+Instagram-Comments-73-03:12
 Github-Followers-33-03:27
 Github-Watchers-85-03:27
 Github-Stars-241-03:27
@@ -238,6 +245,7 @@ Google Groups-Threads-48-03:27
 Instagram-Followers-71-03:27
 Instagram-Likes-1134-03:27
 Instagram-Reproductions-529-03:27
+Instagram-Comments-73-03:27
 Github-Followers-33-03:42
 Github-Watchers-85-03:42
 Github-Stars-241-03:42
@@ -268,6 +276,7 @@ Google Groups-Threads-48-03:42
 Instagram-Followers-71-03:42
 Instagram-Likes-1135-03:42
 Instagram-Reproductions-530-03:42
+Instagram-Comments-73-03:42
 Github-Followers-33-03:57
 Github-Watchers-85-03:57
 Github-Stars-241-03:57
@@ -298,6 +307,7 @@ Google Groups-Threads-48-03:57
 Instagram-Followers-71-03:57
 Instagram-Likes-1136-03:57
 Instagram-Reproductions-532-03:57
+Instagram-Comments-73-03:57
 Github-Followers-33-04:12
 Github-Watchers-85-04:12
 Github-Stars-241-04:12
@@ -328,6 +338,7 @@ Google Groups-Threads-48-04:12
 Instagram-Followers-71-04:12
 Instagram-Likes-1136-04:12
 Instagram-Reproductions-533-04:12
+Instagram-Comments-73-04:12
 Github-Followers-33-04:27
 Github-Watchers-85-04:27
 Github-Stars-241-04:27
@@ -358,6 +369,7 @@ Google Groups-Threads-48-04:27
 Instagram-Followers-71-04:27
 Instagram-Likes-1136-04:27
 Instagram-Reproductions-534-04:27
+Instagram-Comments-73-04:27
 Github-Followers-33-04:37
 Github-Watchers-85-04:37
 Github-Stars-241-04:37
@@ -388,6 +400,7 @@ Google Groups-Threads-48-04:37
 Instagram-Followers-71-04:37
 Instagram-Likes-1136-04:37
 Instagram-Reproductions-534-04:37
+Instagram-Comments-73-04:37
 Github-Followers-33-05:12
 Github-Watchers-85-05:12
 Github-Stars-241-05:12
@@ -418,6 +431,7 @@ Google Groups-Threads-48-05:12
 Instagram-Followers-71-05:12
 Instagram-Likes-1137-05:12
 Instagram-Reproductions-535-05:12
+Instagram-Comments-73-05:12
 Github-Followers-33-05:27
 Github-Watchers-85-05:27
 Github-Stars-241-05:27
@@ -448,6 +462,7 @@ Google Groups-Threads-48-05:27
 Instagram-Followers-71-05:27
 Instagram-Likes-1137-05:27
 Instagram-Reproductions-536-05:27
+Instagram-Comments-73-05:27
 Github-Followers-33-05:42
 Github-Watchers-85-05:42
 Github-Stars-241-05:42
@@ -478,6 +493,7 @@ Google Groups-Threads-48-05:42
 Instagram-Followers-71-05:42
 Instagram-Likes-1140-05:42
 Instagram-Reproductions-536-05:42
+Instagram-Comments-74-05:42
 Github-Followers-33-05:57
 Github-Watchers-85-05:57
 Github-Stars-241-05:57
@@ -508,6 +524,7 @@ Google Groups-Threads-48-05:57
 Instagram-Followers-71-05:57
 Instagram-Likes-1140-05:57
 Instagram-Reproductions-537-05:57
+Instagram-Comments-74-05:57
 Github-Followers-33-06:12
 Github-Watchers-85-06:12
 Github-Stars-241-06:12
@@ -538,6 +555,7 @@ Google Groups-Threads-48-06:12
 Instagram-Followers-71-06:12
 Instagram-Likes-1141-06:12
 Instagram-Reproductions-537-06:12
+Instagram-Comments-74-06:12
 Github-Followers-33-06:27
 Github-Watchers-85-06:27
 Github-Stars-241-06:27
@@ -568,6 +586,7 @@ Google Groups-Threads-48-06:27
 Instagram-Followers-71-06:27
 Instagram-Likes-1142-06:27
 Instagram-Reproductions-537-06:27
+Instagram-Comments-74-06:27
 Github-Followers-33-06:42
 Github-Watchers-85-06:42
 Github-Stars-241-06:42
@@ -598,6 +617,7 @@ Google Groups-Threads-48-06:42
 Instagram-Followers-71-06:42
 Instagram-Likes-1142-06:42
 Instagram-Reproductions-537-06:42
+Instagram-Comments-74-06:42
 Github-Followers-33-06:57
 Github-Watchers-85-06:57
 Github-Stars-241-06:57
@@ -628,6 +648,7 @@ Google Groups-Threads-48-06:57
 Instagram-Followers-72-06:57
 Instagram-Likes-1144-06:57
 Instagram-Reproductions-538-06:57
+Instagram-Comments-74-06:57
 Github-Followers-33-07:12
 Github-Watchers-85-07:12
 Github-Stars-241-07:12
@@ -658,6 +679,7 @@ Google Groups-Threads-48-07:12
 Instagram-Followers-72-07:12
 Instagram-Likes-1144-07:12
 Instagram-Reproductions-539-07:12
+Instagram-Comments-74-07:12
 Github-Followers-33-07:26
 Github-Watchers-85-07:26
 Github-Stars-241-07:26
@@ -688,6 +710,7 @@ Google Groups-Threads-48-07:26
 Instagram-Followers-72-07:26
 Instagram-Likes-1144-07:26
 Instagram-Reproductions-540-07:26
+Instagram-Comments-74-07:26
 Github-Followers-33-07:42
 Github-Watchers-85-07:42
 Github-Stars-241-07:42
@@ -718,6 +741,7 @@ Google Groups-Threads-48-07:42
 Instagram-Followers-72-07:42
 Instagram-Likes-1144-07:42
 Instagram-Reproductions-541-07:42
+Instagram-Comments-74-07:42
 Github-Followers-33-07:56
 Github-Watchers-85-07:56
 Github-Stars-241-07:56
@@ -748,6 +772,7 @@ Google Groups-Threads-48-07:56
 Instagram-Followers-72-07:56
 Instagram-Likes-1144-07:56
 Instagram-Reproductions-542-07:56
+Instagram-Comments-74-07:56
 Github-Followers-33-08:12
 Github-Watchers-85-08:12
 Github-Stars-241-08:12
@@ -778,6 +803,7 @@ Google Groups-Threads-48-08:12
 Instagram-Followers-72-08:12
 Instagram-Likes-1144-08:12
 Instagram-Reproductions-542-08:12
+Instagram-Comments-74-08:12
 Github-Followers-33-08:26
 Github-Watchers-85-08:26
 Github-Stars-241-08:26
@@ -808,6 +834,7 @@ Google Groups-Threads-48-08:26
 Instagram-Followers-72-08:26
 Instagram-Likes-1144-08:26
 Instagram-Reproductions-544-08:26
+Instagram-Comments-74-08:26
 Github-Followers-33-08:42
 Github-Watchers-85-08:42
 Github-Stars-241-08:42
@@ -838,6 +865,7 @@ Google Groups-Threads-48-08:42
 Instagram-Followers-72-08:42
 Instagram-Likes-1144-08:42
 Instagram-Reproductions-544-08:42
+Instagram-Comments-74-08:42
 Github-Followers-33-08:56
 Github-Watchers-85-08:56
 Github-Stars-241-08:56
@@ -868,6 +896,7 @@ Google Groups-Threads-48-08:56
 Instagram-Followers-72-08:56
 Instagram-Likes-1145-08:56
 Instagram-Reproductions-545-08:56
+Instagram-Comments-74-08:56
 Github-Followers-33-09:12
 Github-Watchers-85-09:12
 Github-Stars-241-09:12
@@ -898,6 +927,7 @@ Google Groups-Threads-48-09:12
 Instagram-Followers-72-09:12
 Instagram-Likes-1146-09:12
 Instagram-Reproductions-547-09:12
+Instagram-Comments-74-09:12
 Github-Followers-33-09:27
 Github-Watchers-85-09:27
 Github-Stars-241-09:27
@@ -928,6 +958,7 @@ Google Groups-Threads-48-09:27
 Instagram-Followers-72-09:27
 Instagram-Likes-1147-09:27
 Instagram-Reproductions-548-09:27
+Instagram-Comments-74-09:27
 Github-Followers-33-09:42
 Github-Watchers-85-09:42
 Github-Stars-241-09:42
@@ -958,6 +989,7 @@ Google Groups-Threads-48-09:42
 Instagram-Followers-72-09:42
 Instagram-Likes-1148-09:42
 Instagram-Reproductions-549-09:42
+Instagram-Comments-74-09:42
 Github-Followers-33-09:57
 Github-Watchers-85-09:57
 Github-Stars-241-09:57
@@ -988,6 +1020,7 @@ Google Groups-Threads-48-09:57
 Instagram-Followers-72-09:57
 Instagram-Likes-1148-09:57
 Instagram-Reproductions-549-09:57
+Instagram-Comments-74-09:57
 Github-Followers-33-10:12
 Github-Watchers-85-10:12
 Github-Stars-241-10:12
@@ -1018,6 +1051,7 @@ Google Groups-Threads-48-10:12
 Instagram-Followers-72-10:12
 Instagram-Likes-1148-10:12
 Instagram-Reproductions-551-10:12
+Instagram-Comments-74-10:12
 Github-Followers-33-10:42
 Github-Watchers-85-10:42
 Github-Stars-241-10:42
@@ -1048,6 +1082,7 @@ Google Groups-Threads-48-10:42
 Instagram-Followers-72-10:42
 Instagram-Likes-1148-10:42
 Instagram-Reproductions-554-10:42
+Instagram-Comments-74-10:42
 Github-Followers-33-10:57
 Github-Watchers-85-10:57
 Github-Stars-241-10:57
@@ -1078,6 +1113,7 @@ Google Groups-Threads-48-10:57
 Instagram-Followers-72-10:57
 Instagram-Likes-1149-10:57
 Instagram-Reproductions-556-10:57
+Instagram-Comments-74-10:57
 Github-Followers-33-11:27
 Github-Watchers-85-11:27
 Github-Stars-241-11:27
@@ -1108,6 +1144,7 @@ Google Groups-Threads-48-11:27
 Instagram-Followers-72-11:27
 Instagram-Likes-1150-11:27
 Instagram-Reproductions-558-11:27
+Instagram-Comments-74-11:27
 Github-Followers-33-11:42
 Github-Watchers-85-11:42
 Github-Stars-241-11:42
@@ -1138,6 +1175,7 @@ Google Groups-Threads-48-11:42
 Instagram-Followers-72-11:42
 Instagram-Likes-1150-11:42
 Instagram-Reproductions-558-11:42
+Instagram-Comments-74-11:42
 Github-Followers-33-11:57
 Github-Watchers-85-11:57
 Github-Stars-241-11:57
@@ -1168,6 +1206,7 @@ Google Groups-Threads-48-11:57
 Instagram-Followers-72-11:57
 Instagram-Likes-1150-11:57
 Instagram-Reproductions-558-11:57
+Instagram-Comments-74-11:57
 Github-Followers-33-12:27
 Github-Watchers-85-12:27
 Github-Stars-241-12:27
@@ -1198,6 +1237,7 @@ Google Groups-Threads-48-12:27
 Instagram-Followers-72-12:27
 Instagram-Likes-1150-12:27
 Instagram-Reproductions-560-12:27
+Instagram-Comments-74-12:27
 Github-Followers-33-12:57
 Github-Watchers-85-12:57
 Github-Stars-241-12:57
@@ -1228,6 +1268,7 @@ Google Groups-Threads-48-12:57
 Instagram-Followers-72-12:57
 Instagram-Likes-1151-12:57
 Instagram-Reproductions-561-12:57
+Instagram-Comments-74-12:57
 Github-Followers-33-13:11
 Github-Watchers-85-13:11
 Github-Stars-241-13:11
@@ -1258,6 +1299,7 @@ Google Groups-Threads-48-13:11
 Instagram-Followers-72-13:11
 Instagram-Likes-1151-13:11
 Instagram-Reproductions-561-13:11
+Instagram-Comments-74-13:11
 Github-Followers-33-13:42
 Github-Watchers-85-13:42
 Github-Stars-241-13:42
@@ -1288,6 +1330,7 @@ Google Groups-Threads-48-13:42
 Instagram-Followers-72-13:42
 Instagram-Likes-1152-13:42
 Instagram-Reproductions-562-13:42
+Instagram-Comments-74-13:42
 Github-Followers-33-13:56
 Github-Watchers-85-13:56
 Github-Stars-241-13:56
@@ -1318,6 +1361,7 @@ Google Groups-Threads-48-13:56
 Instagram-Followers-72-13:56
 Instagram-Likes-1152-13:56
 Instagram-Reproductions-564-13:56
+Instagram-Comments-74-13:56
 Github-Followers-33-14:12
 Github-Watchers-85-14:12
 Github-Stars-241-14:12
@@ -1348,6 +1392,7 @@ Google Groups-Threads-48-14:12
 Instagram-Followers-72-14:12
 Instagram-Likes-1152-14:12
 Instagram-Reproductions-564-14:12
+Instagram-Comments-74-14:12
 Github-Followers-33-14:27
 Github-Watchers-85-14:27
 Github-Stars-241-14:27
@@ -1378,6 +1423,7 @@ Google Groups-Threads-48-14:27
 Instagram-Followers-72-14:27
 Instagram-Likes-1152-14:27
 Instagram-Reproductions-564-14:27
+Instagram-Comments-74-14:27
 Github-Followers-33-15:27
 Github-Watchers-85-15:27
 Github-Stars-241-15:27
@@ -1408,6 +1454,7 @@ Google Groups-Threads-48-15:27
 Instagram-Followers-72-15:27
 Instagram-Likes-1152-15:27
 Instagram-Reproductions-564-15:27
+Instagram-Comments-74-15:27
 Github-Followers-33-15:42
 Github-Watchers-85-15:42
 Github-Stars-241-15:42
@@ -1438,6 +1485,7 @@ Google Groups-Threads-48-15:42
 Instagram-Followers-72-15:42
 Instagram-Likes-1152-15:42
 Instagram-Reproductions-564-15:42
+Instagram-Comments-74-15:42
 Github-Followers-33-16:12
 Github-Watchers-85-16:12
 Github-Stars-241-16:12
@@ -1468,6 +1516,7 @@ Google Groups-Threads-48-16:12
 Instagram-Followers-72-16:12
 Instagram-Likes-1152-16:12
 Instagram-Reproductions-564-16:12
+Instagram-Comments-74-16:12
 Github-Followers-33-16:27
 Github-Watchers-85-16:27
 Github-Stars-241-16:27
@@ -1498,6 +1547,7 @@ Google Groups-Threads-48-16:27
 Instagram-Followers-72-16:27
 Instagram-Likes-1152-16:27
 Instagram-Reproductions-564-16:27
+Instagram-Comments-74-16:27
 Github-Followers-33-16:42
 Github-Watchers-85-16:42
 Github-Stars-241-16:42
@@ -1528,6 +1578,7 @@ Google Groups-Threads-48-16:42
 Instagram-Followers-72-16:42
 Instagram-Likes-1152-16:42
 Instagram-Reproductions-565-16:42
+Instagram-Comments-74-16:42
 Github-Followers-33-16:57
 Github-Watchers-85-16:57
 Github-Stars-241-16:57
@@ -1558,6 +1609,7 @@ Google Groups-Threads-48-16:57
 Instagram-Followers-72-16:57
 Instagram-Likes-1152-16:57
 Instagram-Reproductions-565-16:57
+Instagram-Comments-74-16:57
 Github-Followers-33-17:27
 Github-Watchers-85-17:27
 Github-Stars-241-17:27
@@ -1588,6 +1640,7 @@ Google Groups-Threads-48-17:27
 Instagram-Followers-72-17:27
 Instagram-Likes-1152-17:27
 Instagram-Reproductions-565-17:27
+Instagram-Comments-74-17:27
 Github-Followers-33-18:54
 Github-Watchers-86-18:54
 Github-Stars-241-18:54
@@ -1618,3 +1671,4 @@ Google Groups-Threads-48-18:54
 Instagram-Followers-72-18:54
 Instagram-Likes-1152-18:54
 Instagram-Reproductions-566-18:54
+Instagram-Comments-74-18:54

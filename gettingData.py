@@ -46,7 +46,7 @@ for filePath in filesPathDaily:
     hourFile =filePath.split('/')[4].split('_')[1].split('.')[0].split('-')[0]
     minuteFile =filePath.split('/')[4].split('_')[1].split('.')[0].split('-')[1]
     statsFromFile = getStatsFromFile(filePath)
-    for k in range (len(statsFromFile)-1):
+    for k in range (len(statsFromFile)):
         Fdaily.write(statsFromFile[k]+ '-' + hourFile + ':' + minuteFile + '\n')
 Fdaily.close()
 
@@ -64,7 +64,7 @@ for i in range(6, -1, -1):
     monthFile = lastFilePath.split('/')[2]
     dayFile = lastFilePath.split('/')[3]
     statsFromFile = getStatsFromFile(lastFilePath)
-    for k in range (len(statsFromFile)-1):
+    for k in range (len(statsFromFile)):
         Fweekly.write(statsFromFile[k]+'-'+dayFile+'/'+monthFile+'/'+yearFile+'\n')
 Fweekly.close()
 
@@ -83,7 +83,7 @@ for i in range(29, -1, -1):
         monthFile = lastFilePath.split('/')[2]
         dayFile = lastFilePath.split('/')[3]
         statsFromFile = getStatsFromFile(lastFilePath)
-        for k in range (len(statsFromFile)-1):
+        for k in range (len(statsFromFile)):
             Fmonthly.write(statsFromFile[k]+'-'+dayFile+'/'+monthFile+'/'+yearFile+'\n')
     except:
         continue
