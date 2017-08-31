@@ -685,9 +685,9 @@ Github-Watchers-86-31/08/2017
 Github-Stars-241-31/08/2017
 Github-Forks-60-31/08/2017
 Github-Contributors-5-31/08/2017
-Thingiverse-Views-120413-31/08/2017
+Thingiverse-Views-120418-31/08/2017
 Thingiverse-Downloads-18584-31/08/2017
-Thingiverse-Likes-2882-31/08/2017
+Thingiverse-Likes-2883-31/08/2017
 Thingiverse-Collects-2995-31/08/2017
 Thingiverse-Makes-10-31/08/2017
 Thingiverse-Remixes-3-31/08/2017
