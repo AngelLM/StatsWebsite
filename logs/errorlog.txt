@@ -1,0 +1,465 @@
+[Instagram exception] - 2017-08-29 18:35:23 - Message: connection refused
+
+[Google Groups exception] - 2017-08-29 18:36:43 - Message: connection refused
+
+[Twitter exception] - 2017-08-29 18:37:45 - Message: connection refused
+
+[Youtube exception] - 2017-08-29 18:46:55 - list index out of range
+[Instagram exception] - 2017-08-29 18:47:57 - Message: connection refused
+
+[Google Groups exception] - 2017-08-29 18:49:26 - Message: connection refused
+
+[Twitter exception] - 2017-08-29 18:50:28 - Message: connection refused
+
+[Instagram exception] - 2017-08-29 19:05:19 - Message: connection refused
+
+[Google Groups exception] - 2017-08-29 19:06:41 - Message: connection refused
+
+[Twitter exception] - 2017-08-29 19:07:43 - Message: connection refused
+
+[Instagram exception] - 2017-08-29 19:20:21 - Message: connection refused
+
+[Google Groups exception] - 2017-08-29 19:21:41 - Message: connection refused
+
+[Twitter exception] - 2017-08-29 19:22:43 - Message: connection refused
+
+[Instagram exception] - 2017-08-29 19:35:25 - Message: connection refused
+
+[Google Groups exception] - 2017-08-29 19:36:46 - Message: connection refused
+
+[Twitter exception] - 2017-08-29 19:37:48 - Message: connection refused
+
+[Instagram exception] - 2017-08-29 19:50:45 - Message: connection refused
+
+[Google Groups exception] - 2017-08-29 19:52:05 - Message: connection refused
+
+[Twitter exception] - 2017-08-29 19:53:07 - Message: connection refused
+
+[Instagram exception] - 2017-08-29 20:05:26 - Message: connection refused
+
+[Google Groups exception] - 2017-08-29 20:06:46 - Message: connection refused
+
+[Twitter exception] - 2017-08-29 20:07:48 - Message: connection refused
+
+[Instagram exception] - 2017-08-29 20:20:32 - Message: connection refused
+
+[Google Groups exception] - 2017-08-29 20:21:52 - Message: connection refused
+
+[Twitter exception] - 2017-08-29 20:22:54 - Message: connection refused
+
+[Instagram exception] - 2017-08-29 20:35:25 - Message: connection refused
+
+[Google Groups exception] - 2017-08-29 20:36:45 - Message: connection refused
+
+[Twitter exception] - 2017-08-29 20:37:47 - Message: connection refused
+
+[Instagram exception] - 2017-08-29 20:50:19 - Message: connection refused
+
+[Google Groups exception] - 2017-08-29 20:51:37 - Message: connection refused
+
+[Twitter exception] - 2017-08-29 20:52:39 - Message: connection refused
+
+[Instagram exception] - 2017-08-30 00:05:26 - Message: connection refused
+
+[Google Groups exception] - 2017-08-30 00:06:44 - Message: connection refused
+
+[Twitter exception] - 2017-08-30 00:07:46 - Message: connection refused
+
+[Instagram exception] - 2017-08-30 00:21:04 - [Errno 104] Connection reset by peer
+[master 1071bf4] Automatic commit 2017-08-30 00:41:56
+ 5 files changed, 137 insertions(+), 49 deletions(-)
+ create mode 100644 .CockyWeb.py.swp
+ create mode 100644 logs/2017/08/30/2017-08-30_00-41-56.txt
+ delete mode 100755 test.py
+[Youtube exception] - 2017-08-30 00:49:16 - list index out of range
+[master 61f8500] Automatic commit 2017-08-30 01:11:49
+ 5 files changed, 69 insertions(+), 5 deletions(-)
+ delete mode 100644 .CockyWeb.py.swp
+ delete mode 100644 functions/__init.py__
+ create mode 100644 logs/2017/08/30/2017-08-30_01-11-49.txt
+[master f7cbe21] Automatic commit 2017-08-30 01:26:59
+ 3 files changed, 68 insertions(+), 5 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_01-26-59.txt
+[master 949afc1] Automatic commit 2017-08-30 01:41:51
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_01-41-51.txt
+[master fc15645] Automatic commit 2017-08-30 01:56:50
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_01-56-50.txt
+[master c56d78a] Automatic commit 2017-08-30 02:11:42
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_02-11-42.txt
+[master a0b1be7] Automatic commit 2017-08-30 02:27:08
+ 3 files changed, 62 insertions(+), 1 deletion(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_02-27-08.txt
+[master eb95a8c] Automatic commit 2017-08-30 02:41:59
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_02-41-59.txt
+[master dea51ce] Automatic commit 2017-08-30 02:57:26
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_02-57-26.txt
+[master 5a85971] Automatic commit 2017-08-30 03:11:54
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_03-11-54.txt
+[master 2ce80d8] Automatic commit 2017-08-30 03:26:52
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_03-26-52.txt
+[master 71be2e2] Automatic commit 2017-08-30 03:41:49
+ 3 files changed, 62 insertions(+), 1 deletion(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_03-41-49.txt
+[Youtube exception] - 2017-08-30 03:49:01 - list index out of range
+[master aa1964f] Automatic commit 2017-08-30 04:12:06
+ 3 files changed, 68 insertions(+), 6 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_04-12-06.txt
+[master 0514d8b] Automatic commit 2017-08-30 04:26:59
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_04-26-59.txt
+[master 56d5855] Automatic commit 2017-08-30 04:42:14
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_04-42-14.txt
+[master 321c2d8] Automatic commit 2017-08-30 04:57:07
+ 3 files changed, 62 insertions(+), 1 deletion(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_04-57-07.txt
+[master 762d3de] Automatic commit 2017-08-30 05:12:05
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_05-12-05.txt
+[master 792136e] Automatic commit 2017-08-30 05:27:17
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_05-27-17.txt
+[master 77dcb9e] Automatic commit 2017-08-30 05:42:07
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_05-42-07.txt
+[master d6fe5f9] Automatic commit 2017-08-30 05:57:12
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_05-57-12.txt
+[master 3c58663] Automatic commit 2017-08-30 06:11:43
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_06-11-43.txt
+[master 163fddd] Automatic commit 2017-08-30 06:27:22
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_06-27-22.txt
+[master f294a8b] Automatic commit 2017-08-30 06:41:46
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_06-41-46.txt
+[master 14b7580] Automatic commit 2017-08-30 06:56:52
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_06-56-52.txt
+[master 7d9b055] Automatic commit 2017-08-30 07:12:02
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_07-12-02.txt
+[master 9ae632b] Automatic commit 2017-08-30 07:27:07
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_07-27-07.txt
+[master a3d873e] Automatic commit 2017-08-30 07:41:57
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_07-41-57.txt
+[master a9f2728] Automatic commit 2017-08-30 07:56:45
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_07-56-45.txt
+[master 7eb8cb4] Automatic commit 2017-08-30 08:12:01
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_08-12-01.txt
+[master ccf1bb8] Automatic commit 2017-08-30 08:26:49
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_08-26-49.txt
+[master f34a0ce] Automatic commit 2017-08-30 08:41:49
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_08-41-49.txt
+[master 00a0394] Automatic commit 2017-08-30 08:56:46
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_08-56-46.txt
+[master 41efde2] Automatic commit 2017-08-30 09:11:30
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_09-11-30.txt
+[master 935990d] Automatic commit 2017-08-30 09:26:31
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_09-26-31.txt
+[master 5208f6d] Automatic commit 2017-08-30 09:41:38
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_09-41-38.txt
+[master 79e194b] Automatic commit 2017-08-30 09:56:37
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_09-56-37.txt
+[Youtube exception] - 2017-08-30 10:04:00 - list index out of range
+[master b2cdc71] Automatic commit 2017-08-30 10:26:26
+ 3 files changed, 67 insertions(+), 5 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_10-26-26.txt
+[master 33287f1] Automatic commit 2017-08-30 10:41:41
+ 3 files changed, 66 insertions(+), 5 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_10-41-41.txt
+[master a44cc84] Automatic commit 2017-08-30 10:56:42
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_10-56-42.txt
+[master 5cd52d1] Automatic commit 2017-08-30 11:11:48
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_11-11-48.txt
+[master 994ae7d] Automatic commit 2017-08-30 11:26:43
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_11-26-43.txt
+[master b61c71a] Automatic commit 2017-08-30 11:41:28
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_11-41-28.txt
+[master 2c26b87] Automatic commit 2017-08-30 11:56:35
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_11-56-35.txt
+[Instagram exception] - 2017-08-30 12:06:22 - [Errno 104] Connection reset by peer
+[Youtube exception] - 2017-08-30 12:16:57 - list index out of range
+[master 1680226] Automatic commit 2017-08-30 12:41:21
+ 3 files changed, 67 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_12-41-21.txt
+[master 2306e41] Automatic commit 2017-08-30 12:56:41
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_12-56-41.txt
+[master 31697c8] Automatic commit 2017-08-30 13:11:43
+ 3 files changed, 66 insertions(+), 5 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_13-11-43.txt
+[master 2384b9f] Automatic commit 2017-08-30 13:26:26
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_13-26-26.txt
+[Google Groups exception] - 2017-08-30 13:37:59 - Message: 
+
+[master 0dc3290] Automatic commit 2017-08-30 13:56:45
+ 3 files changed, 67 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_13-56-45.txt
+[master d88fd92] Automatic commit 2017-08-30 14:11:49
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_14-11-49.txt
+[master 28d877f] Automatic commit 2017-08-30 14:26:36
+ 3 files changed, 62 insertions(+), 1 deletion(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_14-26-36.txt
+[master 4e1035d] Automatic commit 2017-08-30 14:41:44
+ 3 files changed, 62 insertions(+), 1 deletion(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_14-41-44.txt
+[master 1a7fa79] Automatic commit 2017-08-30 14:56:47
+ 3 files changed, 66 insertions(+), 5 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_14-56-47.txt
+[Instagram exception] - 2017-08-30 15:05:43 - [Errno 104] Connection reset by peer
+[Instagram exception] - 2017-08-30 15:20:33 - [Errno 104] Connection reset by peer
+[master 84e5873] Automatic commit 2017-08-30 15:41:52
+ 3 files changed, 69 insertions(+), 6 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_15-41-52.txt
+[master 980b63a] Automatic commit 2017-08-30 15:58:49
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_15-58-49.txt
+[master ed27acf] Automatic commit 2017-08-30 16:11:41
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_16-11-41.txt
+[master afcd61c] Automatic commit 2017-08-30 16:28:33
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_16-28-33.txt
+[master ec9f58f] Automatic commit 2017-08-30 16:43:21
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_16-43-21.txt
+[Instagram exception] - 2017-08-30 16:51:17 - [Errno 104] Connection reset by peer
+[master 0bb335e] Automatic commit 2017-08-30 17:13:54
+ 3 files changed, 64 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_17-13-54.txt
+[Instagram exception] - 2017-08-30 17:21:02 - [Errno 104] Connection reset by peer
+[Instagram exception] - 2017-08-30 17:36:27 - [Errno 104] Connection reset by peer
+[Youtube exception] - 2017-08-30 17:47:43 - list index out of range
+[Instagram exception] - 2017-08-30 17:49:38 - [Errno 104] Connection reset by peer
+[master bc1b77c] Automatic commit 2017-08-30 18:12:08
+ 3 files changed, 72 insertions(+), 7 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_18-12-08.txt
+[Instagram exception] - 2017-08-30 18:20:34 - [Errno 104] Connection reset by peer
+[Instagram exception] - 2017-08-30 18:36:11 - [Errno 104] Connection reset by peer
+[master 1a0da4d] Automatic commit 2017-08-30 18:57:12
+ 3 files changed, 65 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_18-57-12.txt
+[master bb1b07f] Automatic commit 2017-08-30 19:11:47
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_19-11-47.txt
+[master ca5874a] Automatic commit 2017-08-30 19:29:03
+ 3 files changed, 62 insertions(+), 1 deletion(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_19-29-03.txt
+[master bdaabed] Automatic commit 2017-08-30 19:41:45
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_19-41-45.txt
+[master c0dedaf] Automatic commit 2017-08-30 19:56:33
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_19-56-33.txt
+[master fb1515b] Automatic commit 2017-08-30 20:11:57
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_20-11-57.txt
+[master d558553] Automatic commit 2017-08-30 20:26:43
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/30/2017-08-30_20-26-43.txt
+[Instagram exception] - 2017-08-30 20:35:44 - [Errno 104] Connection reset by peer
+[Instagram exception] - 2017-08-31 00:20:27 - [Errno 104] Connection reset by peer
+[Youtube exception] - 2017-08-31 00:19:31 - list index out of range
+[Instagram exception] - 2017-08-31 00:35:47 - [Errno 104] Connection reset by peer
+[master 6780242] Automatic commit 2017-08-31 00:57:10
+ 4 files changed, 85 insertions(+), 20 deletions(-)
+ delete mode 100644 functions/.thingiverse.py.swp
+ create mode 100644 logs/2017/08/31/2017-08-31_00-57-10.txt
+[Youtube exception] - 2017-08-31 01:00:04 - list index out of range
+[master 8f7b362] Automatic commit 2017-08-31 01:27:11
+ 3 files changed, 71 insertions(+), 8 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_01-27-11.txt
+[Youtube exception] - 2017-08-31 01:34:01 - list index out of range
+[master f6fb49f] Automatic commit 2017-08-31 01:57:16
+ 3 files changed, 68 insertions(+), 6 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_01-57-16.txt
+[master 287436c] Automatic commit 2017-08-31 02:12:15
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_02-12-15.txt
+[master b243df9] Automatic commit 2017-08-31 02:27:18
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_02-27-18.txt
+[Youtube exception] - 2017-08-31 02:30:35 - list index out of range
+[master a4bba50] Automatic commit 2017-08-31 02:57:14
+ 3 files changed, 69 insertions(+), 7 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_02-57-14.txt
+[master d116b45] Automatic commit 2017-08-31 03:12:06
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_03-12-06.txt
+[master f9e93e8] Automatic commit 2017-08-31 03:27:11
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_03-27-11.txt
+[master fdc046d] Automatic commit 2017-08-31 03:42:12
+ 3 files changed, 66 insertions(+), 5 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_03-42-12.txt
+[master fa12d8b] Automatic commit 2017-08-31 03:57:09
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_03-57-09.txt
+[master 8a2938b] Automatic commit 2017-08-31 04:12:19
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_04-12-19.txt
+[master 318e320] Automatic commit 2017-08-31 04:27:27
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_04-27-27.txt
+[master 07f0a91] Automatic commit 2017-08-31 04:37:50
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_04-37-50.txt
+[Youtube exception] - 2017-08-31 04:49:04 - list index out of range
+[master 50fc9ad] Automatic commit 2017-08-31 05:12:21
+ 3 files changed, 69 insertions(+), 7 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_05-12-21.txt
+[master 948ee91] Automatic commit 2017-08-31 05:27:14
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_05-27-14.txt
+[master 4a405d5] Automatic commit 2017-08-31 05:42:03
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_05-42-03.txt
+[master 70a9cc9] Automatic commit 2017-08-31 05:57:16
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_05-57-16.txt
+[master 41c7ad0] Automatic commit 2017-08-31 06:12:04
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_06-12-04.txt
+[master 7c974b1] Automatic commit 2017-08-31 06:27:10
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_06-27-10.txt
+[master 7db6b7f] Automatic commit 2017-08-31 06:42:05
+ 3 files changed, 62 insertions(+), 1 deletion(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_06-42-05.txt
+[master 8ba2a16] Automatic commit 2017-08-31 06:57:20
+ 3 files changed, 66 insertions(+), 5 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_06-57-20.txt
+[master 1ca829b] Automatic commit 2017-08-31 07:12:14
+ 3 files changed, 66 insertions(+), 5 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_07-12-14.txt
+[master 13c525b] Automatic commit 2017-08-31 07:26:59
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_07-26-59.txt
+[master 87998ab] Automatic commit 2017-08-31 07:42:11
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_07-42-11.txt
+[master 91c5c21] Automatic commit 2017-08-31 07:56:59
+ 3 files changed, 66 insertions(+), 5 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_07-56-59.txt
+[master 60da7fb] Automatic commit 2017-08-31 08:12:09
+ 3 files changed, 67 insertions(+), 6 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_08-12-09.txt
+[master ece6654] Automatic commit 2017-08-31 08:26:56
+ 3 files changed, 67 insertions(+), 6 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_08-26-56.txt
+[master 66a7147] Automatic commit 2017-08-31 08:42:06
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_08-42-06.txt
+[master 41f82eb] Automatic commit 2017-08-31 08:56:59
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_08-56-59.txt
+[master 3cace18] Automatic commit 2017-08-31 09:12:03
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_09-12-03.txt
+[master ba6741f] Automatic commit 2017-08-31 09:27:02
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_09-27-02.txt
+[master a762565] Automatic commit 2017-08-31 09:42:01
+ 3 files changed, 67 insertions(+), 6 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_09-42-01.txt
+[master 1d07c11] Automatic commit 2017-08-31 09:57:12
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_09-57-12.txt
+[master 4449406] Automatic commit 2017-08-31 10:12:13
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_10-12-13.txt
+[Instagram exception] - 2017-08-31 10:20:29 - [Errno 104] Connection reset by peer
+[master 8037d74] Automatic commit 2017-08-31 10:42:04
+ 3 files changed, 65 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_10-42-04.txt
+[master ad38793] Automatic commit 2017-08-31 10:57:05
+ 3 files changed, 67 insertions(+), 6 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_10-57-05.txt
+[Youtube exception] - 2017-08-31 11:02:34 - list index out of range
+[master 0aff063] Automatic commit 2017-08-31 11:27:13
+ 3 files changed, 69 insertions(+), 7 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_11-27-13.txt
+[master 56f6baf] Automatic commit 2017-08-31 11:42:21
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_11-42-21.txt
+[master e07c735] Automatic commit 2017-08-31 11:57:12
+ 3 files changed, 62 insertions(+), 1 deletion(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_11-57-12.txt
+[Youtube exception] - 2017-08-31 12:03:57 - list index out of range
+[master 2c5c68e] Automatic commit 2017-08-31 12:27:22
+ 3 files changed, 68 insertions(+), 6 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_12-27-22.txt
+[Instagram exception] - 2017-08-31 12:36:37 - [Errno 104] Connection reset by peer
+[master c1ed16c] Automatic commit 2017-08-31 12:57:06
+ 3 files changed, 68 insertions(+), 6 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_12-57-06.txt
+[master 0e326ef] Automatic commit 2017-08-31 13:11:54
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_13-11-54.txt
+[Instagram exception] - 2017-08-31 13:20:44 - [Errno 104] Connection reset by peer
+[master 5c1a31d] Automatic commit 2017-08-31 13:42:12
+ 3 files changed, 68 insertions(+), 6 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_13-42-12.txt
+[master 12914c1] Automatic commit 2017-08-31 13:56:59
+ 3 files changed, 65 insertions(+), 4 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_13-56-59.txt
+[master 8405c79] Automatic commit 2017-08-31 14:12:14
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_14-12-14.txt
+[master 0c178c1] Automatic commit 2017-08-31 14:27:09
+ 3 files changed, 62 insertions(+), 1 deletion(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_14-27-09.txt
+[Google Groups exception] - 2017-08-31 14:38:13 - Message: 
+
+[Instagram exception] - 2017-08-31 14:51:31 - [Errno 104] Connection reset by peer
+[Instagram exception] - 2017-08-31 15:06:21 - [Errno 104] Connection reset by peer
+[master f012fde] Automatic commit 2017-08-31 15:27:16
+ 3 files changed, 71 insertions(+), 6 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_15-27-16.txt
+[master e8a531d] Automatic commit 2017-08-31 15:42:38
+ 3 files changed, 62 insertions(+), 1 deletion(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_15-42-38.txt
+[Instagram exception] - 2017-08-31 15:50:52 - [Errno 104] Connection reset by peer
+[master 1448333] Automatic commit 2017-08-31 16:12:35
+ 3 files changed, 68 insertions(+), 6 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_16-12-35.txt
+[master 5eabcaa] Automatic commit 2017-08-31 16:27:22
+ 3 files changed, 64 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_16-27-22.txt
+[master 130dd7f] Automatic commit 2017-08-31 16:42:27
+ 3 files changed, 63 insertions(+), 2 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_16-42-27.txt
+[master 09a4372] Automatic commit 2017-08-31 16:57:52
+ 3 files changed, 62 insertions(+), 1 deletion(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_16-57-52.txt
+[Instagram exception] - 2017-08-31 17:05:27 - [Errno 104] Connection reset by peer
+[master c971e39] Automatic commit 2017-08-31 17:27:33
+ 3 files changed, 65 insertions(+), 3 deletions(-)
+ create mode 100644 logs/2017/08/31/2017-08-31_17-27-33.txt
