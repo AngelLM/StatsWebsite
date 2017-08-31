@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Ángel L.M. - Stats - Google Groups Chart</title>
+  <link rel="stylesheet" type="text/css" href="css/styleCharts.css">
+  <meta charset="utf-8">
+  <script src="js/moment.js"></script>
+  <script src="js/Chart.bundle.js"></script>
+  <script src="js/Chart.min.js"></script>
+  <script src="js/utils.js"></script>
+
+  <style>
+  canvas {
+      -moz-user-select: none;
+      -webkit-user-select: none;
+      -ms-user-select: none;
+  }
+  </style>
+</head>
+
+<body>
+    <a href="https://github.com/AngelLMbot/The-Cocky-Website"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"></a>
+    <div class="wrapper">
+      <p id = "title">Ángel L.M. - Google Groups Chart</p>
+        <div id="column_container">
+          <div id="canvasDiv">
+              <canvas id="canvas" height="100"></canvas>
+          </div>
+          <div id="buttons">
+            <button id="dailyData">Daily Stats</button>
+            <button id="weeklyData">Weekly Stats</button>
+            <button id="monthlyData">Monthly Stats</button>
+          </div>
+          <div id="GoBackID">
+            <h3><a href="index.html">Go Back</a></h3>
+          </div>
+        </div>
+      </p>
+    </div>
+
+    <script src="js/googlegroupsChart.js"></script>
+</body>
+
+</html>

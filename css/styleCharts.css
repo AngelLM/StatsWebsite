@@ -9,7 +9,7 @@
 	font-family: 'Space Mono',serif;
   margin: 20px 0px 0px 0px;
 	text-align: center;
-	font-size: 60px;
+	font-size: 40px;
 	height: auto;
 	background: #04f2d5;
 	text-decoration: underline;
@@ -79,13 +79,17 @@ html, body{
 
 }
 
+#canvasDiv{
+	position: relative;
+	padding:20px;
+	margin: 0 auto;
+}
+
 h1{
 	margin: 0px 0px 15px 0px;
 	text-align: left;
 	font-family: 'Space Mono',serif;
 	font-size: 35px;
-	position: relative;
-	float: left;
 }
 
 h1 a{
@@ -103,6 +107,20 @@ h2{
 
 h2 a{
 	text-decoration: none;
+}
+
+h3 a{
+	text-decoration: none;
+}
+
+h3{
+	margin: 10px 0px 25px 0px;
+	text-align: center;
+	font-family: 'Space Mono',serif;
+	color:#40514e;
+  font-size: 30px;
+	text-decoration: none;
+
 }
 
 p{
@@ -126,18 +144,4 @@ p a{
 
 #Footer_Text{
 	color: #40514e;
-}
-
-.diffpos{
-	color:green;
-	font-size: 12px;
-}
-
-.diffneg{
-	color:red;
-	font-size: 12px;
-}
-
-.header img {
-  float: right;
 }

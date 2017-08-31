@@ -9,7 +9,6 @@ import googlegroups
 import instagram
 
 import re
-from subprocess import call
 from time import time, gmtime, strftime
 from datetime import date, timedelta, datetime
 import glob
@@ -158,7 +157,3 @@ except OSError as e:
 Flog = open(PathNow, "w+")
 Flog.write(Logbasejoined)
 Flog.close()
-
-call(["git", "add", "./"])
-call(["git", "commit", "-m", "Automatic commit "+dateNowStr])
-call(["git", "push", "origin", "master"])

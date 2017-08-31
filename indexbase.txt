@@ -12,7 +12,10 @@
 <p id = "title">Ángel L.M. - Stats</p>
     <div id="column_container">
         <div id="GithubSection" class="StatSection">
-          <h1>Github</h1>
+          <div class="header">
+            <h1>Github</h1>
+            <a href="githubChart.html"><img src="doc/chart-icon.png" height="35px" style="float:left"></img></a>
+          </div>
           <p id="GHfollowers" class="counter">Followers: !!!
           <p id="GHwatchers" class="counter">Watchers: !!!
           <p id="GHStars" class="counter">Stars: !!!
@@ -20,7 +23,10 @@
           <p id="GHcontributors" class="counter">Contributors: !!!
         </div>
         <div id="ThingiverseSection" class="StatSection">
-          <h1>Thingiverse</h1>
+          <div class="header">
+            <h1>Thingiverse</h1>
+            <a href="thingiverseChart.html"><img src="doc/chart-icon.png" height="35px" style="float:left"></img></a>
+          </div>
           <p id= "TVviews" class="counter">Views: !!!
           <p id= "TVdownloads" class="counter">Downloads: !!!
           <p id= "TVlikes" class="counter">Likes: !!!
@@ -30,14 +36,20 @@
           <p id= "TVcomments" class="counter">Comments: !!!
         </div>
         <div id="YoutubeSection" class="StatSection">
-          <h1>Youtube</h1>
+          <div class="header">
+            <h1>Youtube</h1>
+            <a href="youtubeChart.html"><img src="doc/chart-icon.png" height="35px" style="float:left"></img></a>
+          </div>
           <p id= "YTSubscriptors" class="counter">Subscriptors: !!!
           <p id= "YTviews" class="counter">Views: !!!
           <p id= "YTlikes" class="counter">Likes: !!!
           <p id= "YTdislikes" class="counter">Dislikes: !!!
         </div>
         <div id="HackadaySection" class="StatSection">
-          <h1>Hackaday</h1>
+          <div class="header">
+            <h1>Hackaday</h1>
+            <a href="hackadayChart.html"><img src="doc/chart-icon.png" height="35px" style="float:left"></img></a>
+          </div>
           <p id= "HDfollowers" class="counter">Followers: !!!
           <p id= "HDlikes" class="counter">Likes: !!!
           <p id= "HDviews" class="counter">Views: !!!
@@ -45,19 +57,28 @@
           <p id= "HDcomments" class="counter">Comments: !!!
         </div>
         <div id="TwitterSection" class="StatSection">
-          <h1>Twitter</h1>
+          <div class="header">
+            <h1>Twitter</h1>
+            <a href="twitterChart.html"><img src="doc/chart-icon.png" height="35px" style="float:left"></img></a>
+          </div>
           <p id= "TWfollowers" class="counter">Followers: !!!
           <p id= "TWlikes" class="counter">Likes: !!!
           <p id= "TWretweets" class="counter">Retweets: !!!
           <p id= "TWcomments" class="counter">Comments: !!!
         </div>
         <div id="GoogleGroupsSection" class="StatSection">
-          <h1>Google Groups</h1>
+          <div class="header">
+            <h1>Google Groups</h1>
+            <a href="googlegroupsChart.html"><img src="doc/chart-icon.png" height="35px" style="float:left"></img></a>
+          </div>
           <p id= "GGmembers" class="counter">Members: !!!
           <p id= "GGthreads" class="counter">Threads: !!!
         </div>
         <div id="InstagramSection" class="StatSection">
-          <h1>Instagram</h1>
+          <div class="header">
+            <h1>Instagram</h1>
+            <a href="instagramChart.html"><img src="doc/chart-icon.png" height="35px" style="float:left"></img></a>
+          </div>
           <p id= "IGfollowers" class="counter">Followers: !!!
           <p id= "IGlikes" class="counter">Likes: !!!
           <p id= "IGreproductions" class="counter">Reproductions: !!!
