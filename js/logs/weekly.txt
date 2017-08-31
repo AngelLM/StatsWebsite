@@ -188,7 +188,7 @@ Github-Followers-33-31/08/2017
 Github-Watchers-86-31/08/2017
 Github-Stars-241-31/08/2017
 Github-Forks-60-31/08/2017
-Github-Contributors-0-31/08/2017
+Github-Contributors-5-31/08/2017
 Thingiverse-Views-120422-31/08/2017
 Thingiverse-Downloads-18584-31/08/2017
 Thingiverse-Likes-2883-31/08/2017
@@ -206,8 +206,8 @@ Hackaday-Views-58100-31/08/2017
 Hackaday-Subscritions-825-31/08/2017
 Hackaday-Comments-46-31/08/2017
 Twitter-Followers-439-31/08/2017
-Twitter-Likes-2060-31/08/2017
-Twitter-Retweets-958-31/08/2017
+Twitter-Likes-2063-31/08/2017
+Twitter-Retweets-960-31/08/2017
 Twitter-Comments-191-31/08/2017
 Google Groups-Members-160-31/08/2017
 Google Groups-Threads-48-31/08/2017
