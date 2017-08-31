@@ -51,7 +51,7 @@ window.onload = function() {
             title: {
                 display: true,
                 fontSize: 20,
-                text: 'Googlegroups Stats - Daily'
+                text: 'Google Groups Stats - Daily'
             },
             legend: {
                 display: true,
@@ -129,7 +129,7 @@ document.getElementById('dailyData').addEventListener('click', function() {
           title: {
               display: true,
               fontSize: 20,
-              text: 'Googlegroups Stats - Daily'
+              text: 'Google Groups Stats - Daily'
           },
           legend: {
               display: true,
@@ -199,7 +199,7 @@ document.getElementById('weeklyData').addEventListener('click', function() {
           title: {
               display: true,
               fontSize: 20,
-              text: 'Googlegroups Stats - Weekly'
+              text: 'Google Groups Stats - Weekly'
           },
           legend: {
               display: true,
@@ -268,7 +268,7 @@ document.getElementById('weeklyData').addEventListener('click', function() {
             title: {
                 display: true,
                 fontSize: 20,
-                text: 'Googlegroups Stats - Monthly'
+                text: 'Google Groups Stats - Monthly'
             },
             legend: {
                 display: true,
