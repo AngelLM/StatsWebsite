@@ -716,7 +716,7 @@ Github-Watchers-86-01/09/2017
 Github-Stars-241-01/09/2017
 Github-Forks-60-01/09/2017
 Github-Contributors-5-01/09/2017
-Thingiverse-Views-120426-01/09/2017
+Thingiverse-Views-120430-01/09/2017
 Thingiverse-Downloads-18585-01/09/2017
 Thingiverse-Likes-2883-01/09/2017
 Thingiverse-Collects-2995-01/09/2017
@@ -733,12 +733,12 @@ Hackaday-Views-58100-01/09/2017
 Hackaday-Subscritions-825-01/09/2017
 Hackaday-Comments-46-01/09/2017
 Twitter-Followers-439-01/09/2017
-Twitter-Likes-2066-01/09/2017
+Twitter-Likes-2068-01/09/2017
 Twitter-Retweets-960-01/09/2017
 Twitter-Comments-192-01/09/2017
 Google Groups-Members-160-01/09/2017
 Google Groups-Threads-48-01/09/2017
 Instagram-Followers-72-01/09/2017
 Instagram-Likes-1155-01/09/2017
-Instagram-Reproductions-567-01/09/2017
+Instagram-Reproductions-568-01/09/2017
 Instagram-Comments-74-01/09/2017
