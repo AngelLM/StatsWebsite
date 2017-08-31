@@ -658,3 +658,33 @@ Google Groups-Threads-48-30/08/2017
 Instagram-Followers-69-30/08/2017
 Instagram-Likes-1110-30/08/2017
 Instagram-Reproductions-507-30/08/2017
+Github-Followers-33-31/08/2017
+Github-Watchers-86-31/08/2017
+Github-Stars-241-31/08/2017
+Github-Forks-60-31/08/2017
+Github-Contributors-5-31/08/2017
+Thingiverse-Views-120396-31/08/2017
+Thingiverse-Downloads-18581-31/08/2017
+Thingiverse-Likes-2882-31/08/2017
+Thingiverse-Collects-2995-31/08/2017
+Thingiverse-Makes-10-31/08/2017
+Thingiverse-Remixes-3-31/08/2017
+Thingiverse-Comments-78-31/08/2017
+Youtube-Subscriptors-581-31/08/2017
+Youtube-Views-159303-31/08/2017
+Youtube-Likes-888-31/08/2017
+Youtube-Dislikes-18-31/08/2017
+Hackaday-Followers-16-31/08/2017
+Hackaday-Likes-283-31/08/2017
+Hackaday-Views-58100-31/08/2017
+Hackaday-Subscritions-825-31/08/2017
+Hackaday-Comments-46-31/08/2017
+Twitter-Followers-438-31/08/2017
+Twitter-Likes-2054-31/08/2017
+Twitter-Retweets-955-31/08/2017
+Twitter-Comments-191-31/08/2017
+Google Groups-Members-160-31/08/2017
+Google Groups-Threads-48-31/08/2017
+Instagram-Followers-72-31/08/2017
+Instagram-Likes-1152-31/08/2017
+Instagram-Reproductions-566-31/08/2017
