@@ -478,3 +478,4 @@
 [Instagram exception] - 2017-09-01 10:36:00 - [Errno 104] Connection reset by peer
 [Instagram exception] - 2017-09-01 12:21:03 - [Errno 104] Connection reset by peer
 [Instagram exception] - 2017-09-01 15:21:25 - [Errno 104] Connection reset by peer
+[Youtube exception] - 2017-09-01 15:31:46 - list index out of range
