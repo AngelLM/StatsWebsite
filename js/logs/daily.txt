@@ -1021,3 +1021,34 @@ Instagram-Followers-72-09:57
 Instagram-Likes-1156-09:57
 Instagram-Reproductions-570-09:57
 Instagram-Comments-74-09:57
+Github-Followers-33-10:26
+Github-Watchers-86-10:26
+Github-Stars-241-10:26
+Github-Forks-60-10:26
+Github-Contributors-5-10:26
+Thingiverse-Views-120468-10:26
+Thingiverse-Downloads-18590-10:26
+Thingiverse-Likes-2883-10:26
+Thingiverse-Collects-2995-10:26
+Thingiverse-Makes-10-10:26
+Thingiverse-Remixes-3-10:26
+Thingiverse-Comments-78-10:26
+Youtube-Subscriptors-582-10:26
+Youtube-Views-159303-10:26
+Youtube-Likes-889-10:26
+Youtube-Dislikes-18-10:26
+Hackaday-Followers-16-10:26
+Hackaday-Likes-283-10:26
+Hackaday-Views-58100-10:26
+Hackaday-Subscritions-825-10:26
+Hackaday-Comments-46-10:26
+Twitter-Followers-438-10:26
+Twitter-Likes-2073-10:26
+Twitter-Retweets-961-10:26
+Twitter-Comments-193-10:26
+Google Groups-Members-160-10:26
+Google Groups-Threads-48-10:26
+Instagram-Followers-72-10:26
+Instagram-Likes-1156-10:26
+Instagram-Reproductions-570-10:26
+Instagram-Comments-74-10:26
