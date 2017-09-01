@@ -473,3 +473,4 @@
 [Google Groups exception] - 2017-09-01 04:42:07 - Message: Error loading page, timed out (checkLoad)
 
 [Youtube exception] - 2017-09-01 09:15:32 - list index out of range
+[Instagram exception] - 2017-09-01 09:36:32 - [Errno 104] Connection reset by peer
