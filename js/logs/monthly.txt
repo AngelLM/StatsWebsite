@@ -747,10 +747,10 @@ Github-Watchers-85-02/09/2017
 Github-Stars-241-02/09/2017
 Github-Forks-60-02/09/2017
 Github-Contributors-5-02/09/2017
-Thingiverse-Views-120796-02/09/2017
-Thingiverse-Downloads-18620-02/09/2017
+Thingiverse-Views-120800-02/09/2017
+Thingiverse-Downloads-18621-02/09/2017
 Thingiverse-Likes-2892-02/09/2017
-Thingiverse-Collects-3012-02/09/2017
+Thingiverse-Collects-3013-02/09/2017
 Thingiverse-Makes-10-02/09/2017
 Thingiverse-Remixes-3-02/09/2017
 Thingiverse-Comments-78-02/09/2017
