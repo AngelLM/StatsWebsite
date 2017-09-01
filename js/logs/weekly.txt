@@ -189,8 +189,8 @@ Github-Watchers-86-01/09/2017
 Github-Stars-241-01/09/2017
 Github-Forks-60-01/09/2017
 Github-Contributors-5-01/09/2017
-Thingiverse-Views-120486-01/09/2017
-Thingiverse-Downloads-18590-01/09/2017
+Thingiverse-Views-120493-01/09/2017
+Thingiverse-Downloads-18591-01/09/2017
 Thingiverse-Likes-2883-01/09/2017
 Thingiverse-Collects-2996-01/09/2017
 Thingiverse-Makes-10-01/09/2017
@@ -213,5 +213,5 @@ Google Groups-Members-160-01/09/2017
 Google Groups-Threads-48-01/09/2017
 Instagram-Followers-73-01/09/2017
 Instagram-Likes-1158-01/09/2017
-Instagram-Reproductions-570-01/09/2017
+Instagram-Reproductions-571-01/09/2017
 Instagram-Comments-74-01/09/2017
