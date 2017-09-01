@@ -470,3 +470,5 @@
 [Instagram exception] - 2017-09-01 00:35:49 - [Errno 104] Connection reset by peer
 [Instagram exception] - 2017-09-01 01:20:23 - [Errno 104] Connection reset by peer
 [Instagram exception] - 2017-09-01 01:35:51 - [Errno 104] Connection reset by peer
+[Google Groups exception] - 2017-09-01 04:42:07 - Message: Error loading page, timed out (checkLoad)
+
