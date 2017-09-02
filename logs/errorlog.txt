@@ -881,3 +881,10 @@
 
 [Twitter exception] - 2017-09-02 18:37:52 - Message: connection refused
 
+[Youtube exception] - 2017-09-02 18:47:26 - list index out of range
+[Instagram exception] - 2017-09-02 18:48:27 - Message: connection refused
+
+[Google Groups exception] - 2017-09-02 18:49:48 - Message: connection refused
+
+[Twitter exception] - 2017-09-02 18:50:49 - Message: connection refused
+
