@@ -581,3 +581,43 @@
 
 [Thingiverse exception] - 2017-09-02 13:32:23 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
 [Hackaday exception] - 2017-09-02 14:05:17 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Youtube exception] - 2017-09-02 09:40:50 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-02 11:57:17 - Message: Failed to start browser /usr/bin/firefox: other os error
+
+[GitHub exception] - 2017-09-02 13:29:46 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-02 13:59:01 - Message: connection refused
+
+[Twitter exception] - 2017-09-02 15:44:30 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-02 15:45:12 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-02 15:57:25 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-02 09:40:50 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-02 11:57:17 - Message: Failed to start browser /usr/bin/firefox: other os error
+
+[GitHub exception] - 2017-09-02 13:29:46 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-02 13:59:01 - Message: connection refused
+
+[Twitter exception] - 2017-09-02 15:44:30 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-02 15:45:12 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-02 15:57:25 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-02 09:40:50 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-02 11:57:17 - Message: Failed to start browser /usr/bin/firefox: other os error
+
+[GitHub exception] - 2017-09-02 13:29:46 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-02 13:59:01 - Message: connection refused
+
+[Twitter exception] - 2017-09-02 15:44:30 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-02 15:45:12 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-02 15:57:25 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-02 09:40:50 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-02 11:57:17 - Message: Failed to start browser /usr/bin/firefox: other os error
+
+[GitHub exception] - 2017-09-02 13:29:46 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-02 13:59:01 - Message: connection refused
+
+[Twitter exception] - 2017-09-02 15:44:30 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-02 15:45:12 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-02 15:57:25 - <urlopen error [Errno -3] Temporary failure in name resolution>
