@@ -495,3 +495,25 @@
 [Youtube exception] - 2017-09-02 04:18:23 - list index out of range
 [Twitter exception] - 2017-09-02 06:19:15 - Message: Element reference not seen before: e7fcdaed-72a9-4fcf-b6cd-cf9952236ca6
 
+[Youtube exception] - 2017-09-02 06:36:03 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-02 06:36:28 - [Errno 12] Cannot allocate memory
+[GitHub exception] - 2017-09-02 06:37:57 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-02 06:38:35 - [Errno 12] Cannot allocate memory
+[Twitter exception] - 2017-09-02 06:39:00 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-02 06:44:26 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Hackaday exception] - 2017-09-02 06:54:28 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-02 06:36:03 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-02 06:36:28 - [Errno 12] Cannot allocate memory
+[GitHub exception] - 2017-09-02 06:37:57 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-02 06:38:35 - [Errno 12] Cannot allocate memory
+[Twitter exception] - 2017-09-02 06:39:00 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-02 06:44:26 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Hackaday exception] - 2017-09-02 06:54:28 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-02 06:35:34 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-02 07:00:18 - Message: Can not connect to the Service geckodriver
+
+[GitHub exception] - 2017-09-02 07:20:50 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Google Groups exception] - 2017-09-02 07:34:40 - [Errno 12] Cannot allocate memory
+[Twitter exception] - 2017-09-02 07:59:08 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-02 08:14:18 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Hackaday exception] - 2017-09-02 08:34:21 - <urlopen error [Errno -3] Temporary failure in name resolution>
