@@ -563,3 +563,21 @@
 
 [Thingiverse exception] - 2017-09-02 13:29:46 - <urlopen error [Errno -3] Temporary failure in name resolution>
 [Hackaday exception] - 2017-09-02 13:31:08 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-02 06:32:50 - list index out of range
+[Instagram exception] - 2017-09-02 11:57:18 - Message: Failed to decode response from marionette
+
+[GitHub exception] - 2017-09-02 13:29:46 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-02 13:31:10 - ''
+[Twitter exception] - 2017-09-02 13:31:28 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-02 13:32:37 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Hackaday exception] - 2017-09-02 13:55:38 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Youtube exception] - 2017-09-02 08:14:18 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-02 10:17:15 - Message: connection refused
+
+[GitHub exception] - 2017-09-02 10:28:20 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Google Groups exception] - 2017-09-02 11:57:17 - Message: Failed to start browser /usr/bin/firefox: other os error
+
+[Twitter exception] - 2017-09-02 13:31:41 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-02 13:32:23 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Hackaday exception] - 2017-09-02 14:05:17 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
