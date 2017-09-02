@@ -678,3 +678,24 @@
 [Google Groups exception] - 2017-09-02 16:31:07 - Message: connection refused
 
 [Twitter exception] - 2017-09-02 16:38:34 - [Errno 111] Connection refused
+[Youtube exception] - 2017-09-02 14:04:45 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-02 15:44:30 - Message: connection refused
+
+[GitHub exception] - 2017-09-02 15:45:12 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-02 16:31:07 - Message: connection refused
+
+[Twitter exception] - 2017-09-02 16:38:34 - [Errno 111] Connection refused
+[Youtube exception] - 2017-09-02 14:04:45 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-02 15:44:30 - Message: connection refused
+
+[GitHub exception] - 2017-09-02 15:45:12 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-02 16:31:07 - Message: connection refused
+
+[Twitter exception] - 2017-09-02 16:38:34 - [Errno 111] Connection refused
+[Youtube exception] - 2017-09-02 14:04:45 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-02 15:44:30 - Message: connection refused
+
+[GitHub exception] - 2017-09-02 15:45:12 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-02 16:31:07 - Message: connection refused
+
+[Twitter exception] - 2017-09-02 16:38:34 - [Errno 111] Connection refused
