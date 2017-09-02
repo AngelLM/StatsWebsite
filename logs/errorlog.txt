@@ -664,3 +664,10 @@
 [Google Groups exception] - 2017-09-02 16:31:07 - Message: connection refused
 
 [Twitter exception] - 2017-09-02 16:38:34 - [Errno 111] Connection refused
+[Youtube exception] - 2017-09-02 13:33:43 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-02 15:44:17 - Message: connection refused
+
+[GitHub exception] - 2017-09-02 15:45:12 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-02 16:31:07 - Message: connection refused
+
+[Twitter exception] - 2017-09-02 16:38:34 - [Errno 111] Connection refused
