@@ -765,3 +765,10 @@
 
 [Twitter exception] - 2017-09-02 16:42:07 - Message: connection refused
 
+[Youtube exception] - 2017-09-02 16:31:54 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-02 16:38:35 - Message: Service geckodriver unexpectedly exited. Status code was: -4
+
+[Google Groups exception] - 2017-09-02 16:40:58 - Message: connection refused
+
+[Twitter exception] - 2017-09-02 16:42:08 - Message: connection refused
+
