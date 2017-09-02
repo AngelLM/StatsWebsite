@@ -621,3 +621,11 @@
 
 [Thingiverse exception] - 2017-09-02 15:45:12 - <urlopen error [Errno -3] Temporary failure in name resolution>
 [Hackaday exception] - 2017-09-02 15:57:25 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-02 14:04:45 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-02 14:10:53 - [Errno 12] Cannot allocate memory
+[GitHub exception] - 2017-09-02 14:40:07 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Google Groups exception] - 2017-09-02 15:45:13 - Message: connection refused
+
+[Twitter exception] - 2017-09-02 16:31:06 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-02 16:38:35 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
