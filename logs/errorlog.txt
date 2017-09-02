@@ -492,3 +492,6 @@
 [Instagram exception] - 2017-09-01 23:50:37 - [Errno 104] Connection reset by peer
 [Instagram exception] - 2017-09-02 01:21:27 - [Errno 104] Connection reset by peer
 [Thingiverse exception] - 2017-09-02 03:57:06 - HTTP Error 503: Service Unavailable: Back-end server is at capacity
+[Youtube exception] - 2017-09-02 04:18:23 - list index out of range
+[Twitter exception] - 2017-09-02 06:19:15 - Message: Element reference not seen before: e7fcdaed-72a9-4fcf-b6cd-cf9952236ca6
+
