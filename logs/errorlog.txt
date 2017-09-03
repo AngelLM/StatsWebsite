@@ -1457,3 +1457,4 @@
 
 [Twitter exception] - 2017-09-03 19:22:49 - Message: connection refused
 
+[Instagram exception] - 2017-09-03 19:50:40 - [Errno 104] Connection reset by peer
