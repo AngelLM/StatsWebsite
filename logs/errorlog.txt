@@ -1365,3 +1365,9 @@
 
 [Twitter exception] - 2017-09-03 15:37:42 - Message: connection refused
 
+[Instagram exception] - 2017-09-03 15:50:29 - Message: connection refused
+
+[Google Groups exception] - 2017-09-03 15:51:50 - Message: connection refused
+
+[Twitter exception] - 2017-09-03 15:52:52 - Message: connection refused
+
