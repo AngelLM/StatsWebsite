@@ -1481,3 +1481,4 @@
 [Instagram exception] - 2017-09-04 18:35:21 - [Errno 104] Connection reset by peer
 [Instagram exception] - 2017-09-04 19:05:58 - [Errno 104] Connection reset by peer
 [Instagram exception] - 2017-09-04 19:35:03 - [Errno 104] Connection reset by peer
+[Instagram exception] - 2017-09-04 20:20:20 - [Errno 104] Connection reset by peer
