@@ -1485,3 +1485,38 @@
 [Instagram exception] - 2017-09-04 20:51:09 - [Errno 104] Connection reset by peer
 [Instagram exception] - 2017-09-04 21:06:17 - [Errno 104] Connection reset by peer
 [Instagram exception] - 2017-09-04 21:20:16 - [Errno 104] Connection reset by peer
+[Youtube exception] - 2017-09-05 00:14:54 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-05 00:15:25 - [Errno 12] Cannot allocate memory
+[GitHub exception] - 2017-09-05 00:16:04 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-05 00:16:46 - [Errno 12] Cannot allocate memory
+[Twitter exception] - 2017-09-05 00:18:41 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-05 00:23:13 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-05 00:28:02 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-05 00:14:54 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-05 00:15:25 - [Errno 12] Cannot allocate memory
+[GitHub exception] - 2017-09-05 00:16:04 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-05 00:16:46 - [Errno 12] Cannot allocate memory
+[Twitter exception] - 2017-09-05 00:18:41 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-05 00:23:13 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-05 00:28:02 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-05 00:14:54 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-05 00:15:25 - [Errno 12] Cannot allocate memory
+[GitHub exception] - 2017-09-05 00:16:14 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-05 00:17:10 - [Errno 12] Cannot allocate memory
+[Twitter exception] - 2017-09-05 00:19:33 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-05 00:24:52 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-05 00:29:01 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-05 00:15:04 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-05 00:15:30 - [Errno 12] Cannot allocate memory
+[GitHub exception] - 2017-09-05 00:16:28 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-05 00:17:43 - [Errno 12] Cannot allocate memory
+[Twitter exception] - 2017-09-05 00:20:56 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-05 00:25:42 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-05 00:29:43 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-05 00:15:04 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-05 00:15:30 - [Errno 12] Cannot allocate memory
+[GitHub exception] - 2017-09-05 00:16:28 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-05 00:17:43 - [Errno 12] Cannot allocate memory
+[Twitter exception] - 2017-09-05 00:21:17 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-05 00:26:05 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-05 00:30:15 - <urlopen error [Errno -3] Temporary failure in name resolution>
