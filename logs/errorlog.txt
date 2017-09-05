@@ -1524,3 +1524,7 @@
 
 [Thingiverse exception] - 2017-09-05 02:11:00 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
 [Hackaday exception] - 2017-09-05 02:14:46 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Twitter exception] - 2017-09-05 03:11:43 - Message: Failed to decode response from marionette
+
+[Thingiverse exception] - 2017-09-05 03:25:28 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Hackaday exception] - 2017-09-05 03:30:09 - <urlopen error [Errno -3] Temporary failure in name resolution>
