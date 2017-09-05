@@ -1546,3 +1546,22 @@
 [Twitter exception] - 2017-09-05 03:32:21 - Message: connection refused
 
 [Thingiverse exception] - 2017-09-05 04:56:20 - ''
+[Youtube exception] - 2017-09-05 03:33:21 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-05 04:12:58 - Message: Can not connect to the Service geckodriver
+
+[GitHub exception] - 2017-09-05 04:18:54 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-05 05:28:23 - Message: Failed to start browser /usr/bin/firefox: other os error
+
+[Twitter exception] - 2017-09-05 06:22:59 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-05 06:23:24 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-05 06:24:00 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-05 02:11:00 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-05 03:11:51 - Message: connection refused
+
+[Google Groups exception] - 2017-09-05 06:11:31 - Message: connection refused
+
+[Twitter exception] - 2017-09-05 07:17:22 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-05 07:17:50 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-05 07:18:42 - <urlopen error [Errno -3] Temporary failure in name resolution>
