@@ -2411,3 +2411,4 @@
 [Hackaday exception] - 2017-09-06 00:03:07 - <urlopen error [Errno -3] Temporary failure in name resolution>
 [Instagram exception] - 2017-09-06 00:35:49 - [Errno 104] Connection reset by peer
 [Youtube exception] - 2017-09-06 00:48:59 - list index out of range
+[Instagram exception] - 2017-09-06 01:06:39 - [Errno 104] Connection reset by peer
