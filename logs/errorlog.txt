@@ -1689,3 +1689,43 @@
 
 [Thingiverse exception] - 2017-09-05 10:19:54 - <urlopen error [Errno -3] Temporary failure in name resolution>
 [Hackaday exception] - 2017-09-05 10:19:54 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-05 07:58:16 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-05 08:25:26 - Message: connection refused
+
+[GitHub exception] - 2017-09-05 08:25:47 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-05 09:05:31 - Message: Can not connect to the Service geckodriver
+
+[Twitter exception] - 2017-09-05 10:20:09 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-05 10:20:09 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-05 10:20:09 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-05 06:23:03 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-05 08:08:49 - Message: connection refused
+
+[GitHub exception] - 2017-09-05 08:10:27 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-05 08:26:30 - Message: connection refused
+
+[Twitter exception] - 2017-09-05 10:20:09 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-05 10:20:09 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-05 10:20:09 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-05 06:23:03 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-05 08:08:49 - Message: connection refused
+
+[GitHub exception] - 2017-09-05 08:10:27 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-05 08:26:30 - Message: connection refused
+
+[Twitter exception] - 2017-09-05 10:20:09 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-05 10:20:09 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-05 10:20:09 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-05 06:23:03 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-05 08:08:49 - Message: connection refused
+
+[GitHub exception] - 2017-09-05 08:10:27 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-05 08:26:30 - Message: connection refused
+
+[Twitter exception] - 2017-09-05 10:20:09 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-05 10:20:09 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-05 10:20:09 - <urlopen error [Errno -3] Temporary failure in name resolution>
