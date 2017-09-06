@@ -2850,3 +2850,10 @@
 
 [Twitter exception] - 2017-09-06 16:37:59 - Message: connection refused
 
+[Youtube exception] - 2017-09-06 16:46:57 - list index out of range
+[Instagram exception] - 2017-09-06 16:47:59 - Message: connection refused
+
+[Google Groups exception] - 2017-09-06 16:49:30 - Message: connection refused
+
+[Twitter exception] - 2017-09-06 16:50:32 - Message: connection refused
+
