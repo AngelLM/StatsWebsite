@@ -2464,3 +2464,63 @@
 
 [Thingiverse exception] - 2017-09-06 08:40:40 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
 [Hackaday exception] - 2017-09-06 09:00:50 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Youtube exception] - 2017-09-06 05:48:05 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-06 05:49:21 - Message: connection refused
+
+[GitHub exception] - 2017-09-06 05:50:23 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-06 08:32:13 - Message: connection refused
+
+[Twitter exception] - 2017-09-06 09:56:36 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-06 10:00:49 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-06 10:01:55 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-06 05:48:05 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-06 05:49:21 - Message: connection refused
+
+[GitHub exception] - 2017-09-06 05:50:23 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-06 08:32:13 - Message: connection refused
+
+[Twitter exception] - 2017-09-06 09:56:36 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-06 10:00:49 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-06 10:01:55 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-06 05:48:05 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-06 05:49:21 - Message: connection refused
+
+[GitHub exception] - 2017-09-06 05:50:23 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-06 08:32:13 - Message: connection refused
+
+[Twitter exception] - 2017-09-06 09:56:36 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-06 10:00:49 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-06 10:01:55 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-06 05:48:05 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-06 05:49:21 - Message: connection refused
+
+[GitHub exception] - 2017-09-06 05:50:23 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-06 08:32:13 - Message: connection refused
+
+[Twitter exception] - 2017-09-06 09:56:36 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-06 10:00:49 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-06 10:01:55 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-06 05:48:05 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-06 05:49:21 - Message: connection refused
+
+[GitHub exception] - 2017-09-06 05:50:23 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-06 08:32:13 - Message: connection refused
+
+[Twitter exception] - 2017-09-06 09:56:36 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-06 10:00:49 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-06 10:01:55 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-06 05:48:05 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-06 05:49:21 - Message: connection refused
+
+[GitHub exception] - 2017-09-06 05:50:23 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-06 08:32:13 - Message: connection refused
+
+[Twitter exception] - 2017-09-06 09:56:36 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-06 10:00:49 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-06 10:01:55 - <urlopen error [Errno -3] Temporary failure in name resolution>
