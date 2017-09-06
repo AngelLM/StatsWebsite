@@ -2929,3 +2929,10 @@
 
 [Twitter exception] - 2017-09-06 20:07:53 - Message: connection refused
 
+[Youtube exception] - 2017-09-06 20:18:06 - list index out of range
+[Instagram exception] - 2017-09-06 20:19:08 - Message: connection refused
+
+[Google Groups exception] - 2017-09-06 20:20:29 - Message: connection refused
+
+[Twitter exception] - 2017-09-06 20:21:31 - Message: connection refused
+
