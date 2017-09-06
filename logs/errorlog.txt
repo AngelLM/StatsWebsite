@@ -2693,3 +2693,11 @@
 
 [Twitter exception] - 2017-09-06 13:31:34 - Message: connection refused
 
+[Youtube exception] - 2017-09-06 11:55:02 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-06 13:22:41 - Message: connection refused
+
+[GitHub exception] - 2017-09-06 13:25:48 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-06 13:32:38 - Message: connection refused
+
+[Twitter exception] - 2017-09-06 13:33:43 - Message: connection refused
+
