@@ -2433,3 +2433,34 @@
 [Twitter exception] - 2017-09-06 05:07:13 - [Errno 12] Cannot allocate memory
 [Thingiverse exception] - 2017-09-06 05:17:31 - <urlopen error [Errno -3] Temporary failure in name resolution>
 [Hackaday exception] - 2017-09-06 05:29:36 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-06 05:37:40 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-06 05:48:27 - Message: connection refused
+
+[GitHub exception] - 2017-09-06 08:01:42 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Google Groups exception] - 2017-09-06 08:42:58 - Message: connection refused
+
+[Twitter exception] - 2017-09-06 08:44:52 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-06 08:45:30 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-06 08:53:09 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-06 05:38:58 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-06 05:49:21 - Message: connection refused
+
+[GitHub exception] - 2017-09-06 08:01:42 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Google Groups exception] - 2017-09-06 08:42:58 - Message: connection refused
+
+[Twitter exception] - 2017-09-06 08:44:52 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-06 08:45:22 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-06 08:53:09 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-06 05:39:21 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-06 05:41:09 - [Errno 12] Cannot allocate memory
+[GitHub exception] - 2017-09-06 05:46:50 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-06 05:49:21 - Message: connection refused
+
+[Twitter exception] - 2017-09-06 08:32:13 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-06 08:40:41 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Hackaday exception] - 2017-09-06 09:00:50 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Twitter exception] - 2017-09-06 08:32:09 - Message: Failed to decode response from marionette
+
+[Thingiverse exception] - 2017-09-06 08:40:40 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Hackaday exception] - 2017-09-06 09:00:50 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
