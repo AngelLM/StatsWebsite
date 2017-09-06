@@ -2708,3 +2708,17 @@
 
 [Twitter exception] - 2017-09-06 13:35:24 - Message: connection refused
 
+[Youtube exception] - 2017-09-06 13:26:46 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-06 13:32:35 - Message: connection refused
+
+[Google Groups exception] - 2017-09-06 13:34:28 - Message: connection refused
+
+[Twitter exception] - 2017-09-06 13:35:33 - Message: connection refused
+
+[Youtube exception] - 2017-09-06 13:26:46 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-06 13:32:35 - Message: connection refused
+
+[Google Groups exception] - 2017-09-06 13:34:28 - Message: connection refused
+
+[Twitter exception] - 2017-09-06 13:35:33 - Message: connection refused
+
