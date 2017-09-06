@@ -2412,3 +2412,24 @@
 [Instagram exception] - 2017-09-06 00:35:49 - [Errno 104] Connection reset by peer
 [Youtube exception] - 2017-09-06 00:48:59 - list index out of range
 [Instagram exception] - 2017-09-06 01:06:39 - [Errno 104] Connection reset by peer
+[Youtube exception] - 2017-09-06 04:18:01 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-06 04:44:01 - [Errno 12] Cannot allocate memory
+[GitHub exception] - 2017-09-06 04:53:51 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-06 04:59:49 - [Errno 12] Cannot allocate memory
+[Twitter exception] - 2017-09-06 05:07:13 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-06 05:16:52 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-06 05:29:38 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-06 04:18:01 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-06 04:44:01 - [Errno 12] Cannot allocate memory
+[GitHub exception] - 2017-09-06 04:53:51 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-06 04:59:49 - [Errno 12] Cannot allocate memory
+[Twitter exception] - 2017-09-06 05:07:13 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-06 05:17:34 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-06 05:29:36 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-06 04:18:01 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-06 04:44:01 - [Errno 12] Cannot allocate memory
+[GitHub exception] - 2017-09-06 04:53:51 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-06 04:59:49 - [Errno 12] Cannot allocate memory
+[Twitter exception] - 2017-09-06 05:07:13 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-06 05:17:31 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-06 05:29:36 - <urlopen error [Errno -3] Temporary failure in name resolution>
