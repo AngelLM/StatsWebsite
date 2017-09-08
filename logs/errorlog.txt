@@ -4069,3 +4069,10 @@
 
 [Twitter exception] - 2017-09-08 22:37:52 - Message: connection refused
 
+[Instagram exception] - 2017-09-08 23:58:33 - Message: connection refused
+
+[GitHub exception] - 2017-09-09 00:01:07 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-09 00:01:53 - [Errno 12] Cannot allocate memory
+[Twitter exception] - 2017-09-09 00:03:06 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-09 00:05:23 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Hackaday exception] - 2017-09-09 00:15:51 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
