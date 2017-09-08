@@ -3617,3 +3617,10 @@
 
 [Twitter exception] - 2017-09-08 02:37:51 - Message: connection refused
 
+[Youtube exception] - 2017-09-08 02:46:12 - list index out of range
+[Instagram exception] - 2017-09-08 02:47:14 - Message: connection refused
+
+[Google Groups exception] - 2017-09-08 02:48:35 - Message: connection refused
+
+[Twitter exception] - 2017-09-08 02:49:37 - Message: connection refused
+
