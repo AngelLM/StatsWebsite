@@ -3972,3 +3972,10 @@
 
 [Twitter exception] - 2017-09-08 18:35:10 - Message: connection refused
 
+[Instagram exception] - 2017-09-08 18:50:30 - Message: connection refused
+
+[GitHub exception] - 2017-09-08 18:50:39 - HTTP Error 502: Bad Gateway
+[Google Groups exception] - 2017-09-08 18:51:41 - Message: connection refused
+
+[Twitter exception] - 2017-09-08 18:52:43 - Message: connection refused
+
