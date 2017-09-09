@@ -4076,3 +4076,9 @@
 [Twitter exception] - 2017-09-09 00:03:06 - [Errno 12] Cannot allocate memory
 [Thingiverse exception] - 2017-09-09 00:05:23 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
 [Hackaday exception] - 2017-09-09 00:15:51 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-08 11:05:24 - Message: connection refused
+
+[Google Groups exception] - 2017-09-09 01:35:57 - ''
+[Twitter exception] - 2017-09-09 01:36:37 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-09 01:39:43 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-09 01:42:56 - <urlopen error [Errno -3] Temporary failure in name resolution>
