@@ -4301,3 +4301,51 @@
 [Twitter exception] - 2017-09-09 09:51:37 - Message: connection refused
 
 [Thingiverse exception] - 2017-09-09 09:55:47 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Youtube exception] - 2017-09-09 06:43:10 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-09 08:25:52 - Message: connection refused
+
+[GitHub exception] - 2017-09-09 08:35:05 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-09 09:52:14 - Message: connection refused
+
+[Twitter exception] - 2017-09-09 11:07:33 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-09 11:09:19 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Hackaday exception] - 2017-09-09 11:13:59 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Youtube exception] - 2017-09-09 06:43:10 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-09 08:25:52 - Message: connection refused
+
+[GitHub exception] - 2017-09-09 08:35:05 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-09 09:52:14 - Message: connection refused
+
+[Twitter exception] - 2017-09-09 11:07:33 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-09 11:09:19 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Hackaday exception] - 2017-09-09 11:13:59 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Youtube exception] - 2017-09-09 06:47:07 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-09 08:25:52 - Message: connection refused
+
+[GitHub exception] - 2017-09-09 08:35:05 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-09 09:52:14 - Message: connection refused
+
+[Twitter exception] - 2017-09-09 11:07:33 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-09 11:09:19 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Hackaday exception] - 2017-09-09 11:13:59 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Youtube exception] - 2017-09-09 05:25:50 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-09 07:34:06 - Message: connection refused
+
+[Google Groups exception] - 2017-09-09 09:50:45 - Message: connection refused
+
+[Twitter exception] - 2017-09-09 11:07:12 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-09 11:07:30 - ''
+[Hackaday exception] - 2017-09-09 11:20:01 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Youtube exception] - 2017-09-09 05:25:50 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Instagram exception] - 2017-09-09 07:34:06 - Message: connection refused
+
+[Google Groups exception] - 2017-09-09 09:50:45 - Message: connection refused
+
+[Twitter exception] - 2017-09-09 11:07:12 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-09 11:07:30 - ''
+[Hackaday exception] - 2017-09-09 11:20:01 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
