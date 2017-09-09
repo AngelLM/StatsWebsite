@@ -4132,3 +4132,56 @@
 
 [Thingiverse exception] - 2017-09-09 03:55:41 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
 [Hackaday exception] - 2017-09-09 04:04:12 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Youtube exception] - 2017-09-07 20:33:23 - list index out of range
+[Instagram exception] - 2017-09-09 06:00:45 - ''
+[GitHub exception] - 2017-09-09 06:05:58 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-09 06:08:23 - [Errno 12] Cannot allocate memory
+[Twitter exception] - 2017-09-09 06:10:18 - [Errno 12] Cannot allocate memory
+[Thingiverse exception] - 2017-09-09 06:15:59 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-09 06:23:37 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-09 02:32:51 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-09 02:51:56 - Message: Can not connect to the Service geckodriver
+
+[GitHub exception] - 2017-09-09 02:55:19 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-09 03:15:46 - Message: Can not connect to the Service geckodriver
+
+[Twitter exception] - 2017-09-09 05:15:46 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-09 05:17:37 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-09 02:32:51 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-09 02:51:56 - Message: Can not connect to the Service geckodriver
+
+[GitHub exception] - 2017-09-09 02:55:19 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-09 03:15:46 - Message: Can not connect to the Service geckodriver
+
+[Twitter exception] - 2017-09-09 05:15:46 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-09 05:17:37 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-09 02:32:51 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-09 02:51:56 - Message: Can not connect to the Service geckodriver
+
+[GitHub exception] - 2017-09-09 02:55:19 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-09 03:15:46 - Message: Can not connect to the Service geckodriver
+
+[Twitter exception] - 2017-09-09 05:15:46 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-09 05:17:37 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-09 02:32:58 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-09 02:51:56 - Message: Can not connect to the Service geckodriver
+
+[GitHub exception] - 2017-09-09 02:55:19 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-09 03:15:46 - Message: Can not connect to the Service geckodriver
+
+[Twitter exception] - 2017-09-09 05:15:46 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-09 05:17:37 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-09 02:56:09 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-09 03:23:51 - Message: Can not connect to the Service geckodriver
+
+[GitHub exception] - 2017-09-09 03:29:45 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-09 05:15:47 - Message: connection refused
+
+[Twitter exception] - 2017-09-09 05:46:55 - Message: Failed to start browser /usr/bin/firefox: other os error
+
+[Thingiverse exception] - 2017-09-09 06:30:03 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-09 06:34:33 - <urlopen error [Errno -3] Temporary failure in name resolution>
