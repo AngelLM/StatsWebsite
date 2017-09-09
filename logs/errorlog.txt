@@ -4082,3 +4082,20 @@
 [Twitter exception] - 2017-09-09 01:36:37 - [Errno 12] Cannot allocate memory
 [Thingiverse exception] - 2017-09-09 01:39:43 - <urlopen error [Errno -3] Temporary failure in name resolution>
 [Hackaday exception] - 2017-09-09 01:42:56 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Youtube exception] - 2017-09-09 01:12:27 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-09 01:33:03 - Message: Can not connect to the Service geckodriver
+
+[GitHub exception] - 2017-09-09 01:36:00 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-09 02:17:57 - Message: Failed to start browser /usr/bin/firefox: other os error
+
+[Twitter exception] - 2017-09-09 02:26:54 - Message: Can not connect to the Service geckodriver
+
+[Thingiverse exception] - 2017-09-09 02:27:48 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Hackaday exception] - 2017-09-09 02:29:31 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-07 21:50:25 - Message: connection refused
+
+[Google Groups exception] - 2017-09-07 21:51:46 - Message: connection refused
+
+[Twitter exception] - 2017-09-09 02:17:55 - ''
+[Thingiverse exception] - 2017-09-09 02:27:15 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
+[Hackaday exception] - 2017-09-09 02:31:28 - <urlopen error EOF occurred in violation of protocol (_ssl.c:590)>
