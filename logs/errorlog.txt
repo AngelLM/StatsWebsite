@@ -4365,3 +4365,19 @@
 
 [Twitter exception] - 2017-09-09 11:20:28 - Message: connection refused
 
+[Youtube exception] - 2017-09-09 08:28:28 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-09 09:52:14 - Message: connection refused
+
+[GitHub exception] - 2017-09-09 09:54:51 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-09 11:07:33 - Message: connection refused
+
+[Twitter exception] - 2017-09-09 11:21:06 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-09 11:25:33 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Instagram exception] - 2017-09-09 11:12:04 - ''
+[GitHub exception] - 2017-09-09 11:19:54 - <urlopen error [Errno -3] Temporary failure in name resolution>
+[Google Groups exception] - 2017-09-09 11:21:15 - Message: connection refused
+
+[Twitter exception] - 2017-09-09 11:22:22 - Message: connection refused
+
+[Thingiverse exception] - 2017-09-09 11:25:33 - <urlopen error [Errno -3] Temporary failure in name resolution>
